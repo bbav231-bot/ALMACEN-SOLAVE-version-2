@@ -1,0 +1,8 @@
+{
+ "version": "1.2.3",
+ "fecha": "2026-11-22",
+ "cambios": [
+  "Salida del área de trabajo: panel lateral (mantén presionada la zona o toca 🚚) para Embarque o Traslado, eligiendo qué OP, producto o insumo se va",
+  "\"Restaurar datos demo\" se oculta cuando la nube está conectada"
+ ]
+}
